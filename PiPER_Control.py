@@ -1,6 +1,6 @@
 from paho.mqtt import client as mqtt
 from piper_sdk import *
-
+from piper_sdk import C_PiperInterface_V2
 
 from datetime import datetime
 import time
